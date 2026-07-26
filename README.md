@@ -28,9 +28,9 @@
 
 ## 🛠️ التقنيات والأدوات المستخدمة (Tech Stack)
 
-* **LLMs & Platforms:** Google AI Studio, Gemini, & Claude AI
+* **LLMs & Platforms:** Google AI Studio
 * **Data Annotation:** Label Studio
-* **Testing & Red Teaming:** Red Teaming & Safety Testing
+* **Testing & Red Teaming:** Claude AI & Gemini
 * **Standards:** ISO-Compliant Technical Translation
 
 ---
