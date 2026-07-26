@@ -41,9 +41,7 @@
 | 📁 `red_teaming/` | اختبارات كسر حماية النماذج والأمان |
 
 ---
-<p align="center">
-  <img src="./assets/01_master_prompt_01.png" width="80%" alt="Master Prompt Preview" />
-</p>
+
 <p align="center">
   <b>Developed with ❤️ for AI & Translation Excellence</b>
 </p>
