@@ -3,7 +3,15 @@
   <img src="https://img.shields.io/badge/Focus-Prompt%20Engineering-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ISO-Compliant-green?style=for-the-badge" />
 </p>
+## 📂 جدول المحتويات (Navigation)
 
+| المجلد | الوصف |
+| :--- | :--- |
+| 📁 **`01_master_prompt`** | نماذج Master Prompts لـ Google AI Studio |
+| 📁 **`02_iso_prompt_lab`** | تطبيقات واختبارات المعايير القياسية ISO |
+| 📁 **`03_data_cleaning`** | معالجة وتنظيف البيانات اللغوية |
+| 📁 **`04_label_studio`** | مشاريع التوسيم والـ Annotation |
+| 📁 **`05_red_teaming`** | اختبارات الثغرات والأمان اللغوي (Red Teaming) |
 # 🎓 Graduation Portfolio: AI Linguistics & Prompt Engineering
 
 **إعداد:** ابتسام محمود  
