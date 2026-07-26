@@ -1,0 +1,22 @@
+#!/bin/bash
+set -e -E
+
+GEMINI_API_KEY="$GEMINI_API_KEY"
+
+cat << EOF > request.json
+{
+    "model": "models/gemini-3.5-flash",
+    "input": "",
+    "system_instruction": "انت الان مترجم تقي محترف تعمل وفق معاير ISO 17100و ISO 18587 وISO 9001\nترجم النص بدقة متناهية التزم بدقة المصطلحات التقنية و التنسيق والمعنى و السياق\nاللغة المصرد هي الانجليزية والهدف لغة عربية، المجال تقي يجب مراعاة الثقافة المحلية للجمهور المستهدف  \n اترك ملاحظات للمترجم اللغوي اذا وجدت شئ غامضا بدلا من التخمين والتزم بالمصطلحات المكتوبة في المسرد\nعدم ترجمة الاسماء والاكواد\nراجع الترجمة كاملة بعد الانتهاء كما لو انك مراجع اخر (SECOND LINGUISTIC)\n",
+    "generation_config": {
+        "max_output_tokens": 65536,
+        "thinking_level": "medium"
+    }
+}
+EOF
+
+curl \
+-X POST \
+-H "Content-Type: application/json" \
+"https://generativelanguage.googleapis.com/v1beta/interactions?key=${GEMINI_API_KEY}" -d '@request.json'
+
