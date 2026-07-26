@@ -1,31 +1,36 @@
+# 👩‍💻 Ebtisam Mahmoud | Portfolio
+
+**AI Linguistics Engineer | ISO Translation Specialist**
+
+---
+
+## 📩 Contact & Professional Profiles
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Domain-AI%20Linguistics-blue?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Focus-Prompt%20Engineering-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ISO-Compliant-green?style=for-the-badge" />
+  <a href="mailto:burhanebtisam1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ebtisam-burhan-323817226">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
-# 🎓 Graduation Portfolio: AI Linguistics & Prompt Engineering
-
-**إعداد:** ابتسام محمود  
-
-**البريد الإلكتروني:** [burhanebtisam1@gmail.com] | **LinkedIn:** [https://www.linkedin.com/in/ebtisam-burhan-323817226?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 
 ---
 
 ## 📝 نبذة عن المشروع
 بورتفوليو متكامل يضم مشاريع دبلومة هندسة اللغويات وتدريب الذكاء الاصطناعي، يهدف إلى تطبيق المعايير القياسية العالمية (ISO) في الترجمة التقنية، الهندسة اللغوية، وتوسيم البيانات.
 
----
 > [!NOTE]
-> هذا المشروع مصمم وفق معايير ISO للترجمة التقنية والهندسة اللغوية.
+> جميع المشاريع والتجارب المرفقة متوافقة مع المعايير القياسية وحالات الاستخدام الحقيقية.
 
-> [!TIP]
-> يمكنكِ الاطلاع على الأدلة المرفقة داخل مجلد `05_red_teaming/evidence`.
+---
+
 ## 🛠️ التقنيات والأدوات المستخدمة (Tech Stack)
 
-* **LLMs & Platforms:** Google AI Studio 
+* **LLMs & Platforms:** Google AI Studio, Gemini, & Claude AI
 * **Data Annotation:** Label Studio
-* **Testing & Red Teaming:** Cloud AI & Gemini
+* **Testing & Red Teaming:** Red Teaming & Safety Testing
 * **Standards:** ISO-Compliant Technical Translation
 
 ---
