@@ -16,7 +16,11 @@
 بورتفوليو متكامل يضم مشاريع دبلومة هندسة اللغويات وتدريب الذكاء الاصطناعي، يهدف إلى تطبيق المعايير القياسية العالمية (ISO) في الترجمة التقنية، الهندسة اللغوية، وتوسيم البيانات.
 
 ---
+> [!NOTE]
+> هذا المشروع مصمم وفق معايير ISO للترجمة التقنية والهندسة اللغوية.
 
+> [!TIP]
+> يمكنكِ الاطلاع على الأدلة المرفقة داخل مجلد `05_red_teaming/evidence`.
 ## 🛠️ التقنيات والأدوات المستخدمة (Tech Stack)
 
 * **LLMs & Platforms:** Google AI Studio 
@@ -37,7 +41,9 @@
 | 📁 `red_teaming/` | اختبارات كسر حماية النماذج والأمان |
 
 ---
-
+<p align="center">
+  <img src="./assets/01_master_prompt_01.png" width="80%" alt="Master Prompt Preview" />
+</p>
 <p align="center">
   <b>Developed with ❤️ for AI & Translation Excellence</b>
 </p>
