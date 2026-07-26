@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-AI%20Linguistics-blue?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Focus-Prompt%20Engineering-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO-Compliant-green?style=for-the-badge" />
+</p>
+
 # 🎓 Graduation Portfolio: AI Linguistics & Prompt Engineering
 
 **إعداد:** ابتسام محمود  
