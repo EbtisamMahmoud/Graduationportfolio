@@ -1,6 +1,6 @@
 # 👩‍💻 Ebtisam Mahmoud | Portfolio
 
-**AI Linguistics Engineer | ISO Translation Specialist**
+**AI Linguistics Engineer | ISO Translation Specialist | Prompt Engineering Expert**
 
 ---
 
@@ -18,31 +18,34 @@
 
 ---
 
-## 📝 نبذة عن المشروع
-بورتفوليو متكامل يضم مشاريع دبلومة هندسة اللغويات وتدريب الذكاء الاصطناعي، يهدف إلى تطبيق المعايير القياسية العالمية (ISO) في الترجمة التقنية، الهندسة اللغوية، وتوسيم البيانات.
+## 📝 About the Project
+Comprehensive graduation portfolio showcasing advanced AI linguistics, prompt engineering, and technical translation projects. Designed and implemented in compliance with global **ISO standards** for technical translation, text cleaning, data annotation, and model safety testing.
 
 > [!NOTE]
-> جميع المشاريع والتجارب المرفقة متوافقة مع المعايير القياسية وحالات الاستخدام الحقيقية.
+> All experiments, prompts, and data processing tasks are rigorously tested using multi-agent workflows, Python scripts, and industry-standard tools.
 
 ---
 
-## 🛠️ التقنيات والأدوات المستخدمة (Tech Stack)
+## 🛠️ Technical Stack & Skills
 
 * **LLMs & Platforms:** Google AI Studio
 * **Data Annotation:** Label Studio
 * **Testing & Red Teaming:** Claude AI & Gemini
 * **Standards:** ISO-Compliant Technical Translation
+* **Programming & Editors:** Python, Notepad++, VS Code, Markdown
+* **Core Competencies:** Linguistic Data Cleaning, Dataset Normalization, Multi-Agent Workflows, Red Teaming Evaluation
 
 ---
-## 📂 جدول المهام الخمس (Project Structure)
 
-| المجلد | الوصف |
+## 📂 Project Structure
+
+| Folder | Description |
 | :--- | :--- |
-| 📁 `01_Master_Prompt/` | ملفات الـ Master Prompt وتطبيقاتها |
-| 📁 `02_iso_prompt_lab/` | تجارب معايير الجودة ISO |
-| 📁 `03_data_cleaning/` | تنقية وتنظيف المجموعات اللغوية |
-| 📁 `04_lable_studio/` | مشاريع التوسيم وتحليل البيانات |
-| 📁 `05_red_teaming/` | اختبارات كسر حماية النماذج والأمان |
+| 📁 `01_Master_Prompt/` | Master prompt design and practical applications across LLMs |
+| 📁 `02_iso_prompt_lab/` | Quality assessment and experiments based on ISO standards |
+| 📁 `03_data_cleaning/` | Linguistic dataset cleaning, normalization, and Python processing scripts |
+| 📁 `04_lable_studio/` | Data annotation, dataset labeling, and structured analysis |
+| 📁 `05_red_teaming/` | Model safety testing, red teaming, and jailbreak resistance evaluations |
 
 ---
 
