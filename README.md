@@ -34,16 +34,15 @@
 * **Standards:** ISO-Compliant Technical Translation
 
 ---
-
 ## 📂 جدول المهام الخمس (Project Structure)
 
 | المجلد | الوصف |
 | :--- | :--- |
-| 📁 `master_prompt/` | ملفات الـ Master Prompt وتطبيقاتها |
-| 📁 `iso_prompt_lab/` | تجارب معايير الجودة ISO |
-| 📁 `data_cleaning/` | تنقية وتنظيف المجموعات اللغوية |
-| 📁 `lable_studio/` | مشاريع التوسيم وتحليل البيانات |
-| 📁 `red_teaming/` | اختبارات كسر حماية النماذج والأمان |
+| 📁 `01_Master_Prompt/` | ملفات الـ Master Prompt وتطبيقاتها |
+| 📁 `02_iso_prompt_lab/` | تجارب معايير الجودة ISO |
+| 📁 `03_data_cleaning/` | تنقية وتنظيف المجموعات اللغوية |
+| 📁 `04_lable_studio/` | مشاريع التوسيم وتحليل البيانات |
+| 📁 `05_red_teaming/` | اختبارات كسر حماية النماذج والأمان |
 
 ---
 
