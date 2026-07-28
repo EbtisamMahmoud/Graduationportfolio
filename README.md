@@ -48,7 +48,25 @@ Comprehensive graduation portfolio showcasing advanced AI linguistics, prompt en
 | 📁 `05_red_teaming/` | Model safety testing, red teaming, and jailbreak resistance evaluations |
 
 ---
+## 💡 What I Learned / Key Learnings
 
+Throughout this project and diploma journey, I gained and refined the following expertise:
+
+1. **Prompt Engineering:**
+   * Designing precise and robust prompts to guide Large Language Models (LLMs) effectively.
+   * Mastering advanced prompt structures to minimize hallucination and enhance output reliability.
+
+2. **Data Annotation & Cleaning:**
+   * Applying professional text-cleaning pipelines to prepare and refine raw text data.
+   * Executing data annotation workflows tailored for AI model training requirements.
+
+3. **Technical Translation & ISO Standards:**
+   * Bridging traditional translation skills with modern Artificial Intelligence and Natural Language Processing (NLP) workflows.
+   * Implementing global ISO standards to ensure rigorous technical translation quality and professional compliance.
+
+4. **Model Testing & Safety:**
+   * Understanding methodologies for AI model safety testing and ethical evaluation.
+   * Assessing model behaviors and mitigating risks to ensure secure and trustworthy outputs.
 <p align="center">
   <b>Developed with ❤️ for AI & Translation Excellence</b>
 </p>
