@@ -3,7 +3,9 @@
 **AI Linguistics Engineer | ISO Translation Specialist | Prompt Engineering Expert**
 
 ---
+## 👤 About Me
 
+A specialized **Technical Translator & AI Language Engineer** focused on bridging traditional linguistics with modern Artificial Intelligence workflows. With expertise in **Prompt Engineering, Data Annotation, and ISO-compliant Technical Translation**, I design and evaluate linguistic data pipelines to ensure high-precision, ethically sound, and safe model outputs.
 ## 📩 Contact & Professional Profiles
 
 <p align="center">
