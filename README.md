@@ -67,6 +67,8 @@ Throughout this project and diploma journey, I gained and refined the following 
 4. **Model Testing & Safety:**
    * Understanding methodologies for AI model safety testing and ethical evaluation.
    * Assessing model behaviors and mitigating risks to ensure secure and trustworthy outputs.
+     ---
+
 <p align="center">
   <b>Developed with ❤️ for AI & Translation Excellence</b>
 </p>
